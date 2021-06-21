@@ -1,0 +1,9 @@
+# Fala Galera 👋
+
+Bem vindo ao projeto **GamePlay** desenvolvido na **Next Level Week Together** Nlw #6. Aqui, você vai encontrar o código fonte criado em **React Native** que foi construído ao longo de sete dias de evento. 🤩
+
+Foi incrível trabalhar na criação desse App. Experiência e evolução vieram com tudo! 🚀 
+
+
+[![Instagram Badge](https://img.shields.io/badge/-rodrigo.goncalves.s-6633cc?style=flat-square&labelColor=6633cc&logo=instagram&logoColor=white&link=https://www.instagram.com/gabrieldaraujo_/)](https://www.instagram.com/rodrigo.goncalves.s/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Rodrigo%20Gonçalves%20Santana-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-ara%C3%BAjo-296299195/)](https://www.linkedin.com/in/rodrigo-gon%C3%A7alves-santana/) 
