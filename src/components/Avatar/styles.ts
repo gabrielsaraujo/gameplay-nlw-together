@@ -7,15 +7,11 @@ export const styles = StyleSheet.create({
         borderRadius: 8,
         alignItems: 'center',
         justifyContent: 'center',
-        marginRight: 22,
-
+        marginRight: 22
     },
     avatar: {
-        width: 45,
-        height: 45,
-        borderRadius: 8,
-
+        width: 46,
+        height: 46,
+        borderRadius: 8
     }
-
-
 });

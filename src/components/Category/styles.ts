@@ -1,5 +1,5 @@
-import { StyleSheet } from "react-native";
-import { theme } from "../../global/styles/theme";
+import { StyleSheet } from 'react-native';
+import { theme } from '../../global/styles/theme';
 
 export const styles = StyleSheet.create({
     container: {
@@ -21,7 +21,8 @@ export const styles = StyleSheet.create({
     title: {
         fontFamily: theme.fonts.title700,
         color: theme.colors.heading,
-        fontSize: 15
+        fontSize: 15,
+        marginTop: 15
     },
     check: {
         position: 'absolute',
@@ -43,7 +44,4 @@ export const styles = StyleSheet.create({
         backgroundColor: theme.colors.primary,
         borderRadius: 3
     }
-
-
-
 });

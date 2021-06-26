@@ -1,9 +1,9 @@
 import React from 'react';
 import { RectButton, RectButtonProps } from 'react-native-gesture-handler';
-import { MaterialCommunityIcons } from '@expo/vector-icons'
+import { MaterialCommunityIcons } from '@expo/vector-icons';
 
-import { theme } from '../../global/styles/theme'
 import { styles } from './styles';
+import { theme } from '../../global/styles/theme';
 
 export function ButtonAdd({ ...rest }: RectButtonProps) {
     return (
@@ -16,7 +16,6 @@ export function ButtonAdd({ ...rest }: RectButtonProps) {
                 color={theme.colors.heading}
                 size={24}
             />
-
         </RectButton>
     )
 }

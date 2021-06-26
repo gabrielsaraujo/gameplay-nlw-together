@@ -1,5 +1,4 @@
 import React from 'react';
-import { LinearGradient } from 'expo-linear-gradient';
 import { View, Text } from 'react-native';
 
 import { styles } from './styles';

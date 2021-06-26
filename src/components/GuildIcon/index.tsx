@@ -13,4 +13,5 @@ export function GuildIcon() {
             resizeMode="cover"
         />
     )
+
 }

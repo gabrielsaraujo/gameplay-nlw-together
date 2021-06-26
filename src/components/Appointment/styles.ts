@@ -14,13 +14,12 @@ export const styles = StyleSheet.create({
         width: '100%',
         flexDirection: 'row',
         justifyContent: 'space-between',
-        marginBottom: 12,
+        marginBottom: 12
     },
     title: {
         fontFamily: theme.fonts.title700,
         color: theme.colors.heading,
-        fontSize: 18,
-
+        fontSize: 18
     },
     category: {
         fontFamily: theme.fonts.text400,
@@ -39,8 +38,7 @@ export const styles = StyleSheet.create({
     },
     playersInfo: {
         flexDirection: 'row',
-        alignItems: 'center'
-
+        alignItems: 'center',
     },
     date: {
         fontFamily: theme.fonts.text500,
@@ -53,9 +51,14 @@ export const styles = StyleSheet.create({
         fontSize: 13,
         marginLeft: 7,
         marginRight: 24
-
+    },
+    guildIconContainer: {
+        height: 68,
+        width: 64,
+        borderRadius: 8,
+        alignItems: 'center',
+        justifyContent: 'center',
+        marginRight: 20
 
     }
-
-
 });
