@@ -1,6 +1,6 @@
 # Fala Galera 👋
 
-Bem vindo ao projeto **GamePlay** desenvolvido na **Next Level Week Together** Nlw #6. Aqui, você vai encontrar o código fonte criado em **React Native** que foi construído ao longo de sete dias de evento. 🤩
+Bem vindo ao projeto **GamePlay** desenvolvido na **Next Level Week Together** Nlw #6. Aqui, você vai encontrar o código fonte criado em **React Native** que foi construído ao longo de cinco dias de evento. 🤩
 
 Foi incrível trabalhar na criação desse App. Experiência e evolução vieram com tudo! 🚀 
 
